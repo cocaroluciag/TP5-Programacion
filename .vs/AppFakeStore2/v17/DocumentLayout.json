@@ -1,0 +1,785 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\views\\acercapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\views\\acercapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\utils\\uppercaseconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\utils\\uppercaseconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\views\\userlistapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\views\\userlistapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\views\\userdetallepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\views\\userdetallepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\platforms\\windows\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\platforms\\windows\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\views\\acercapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\views\\acercapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\views\\productodetallepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\views\\productodetallepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\views\\productodetallepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\views\\productodetallepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\views\\productolistapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\views\\productolistapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\views\\productolistapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\views\\productolistapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\views\\userdetallepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\views\\userdetallepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\views\\userlistapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\views\\userlistapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\viewmodels\\userlistaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\viewmodels\\userlistaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\viewmodels\\userdetalleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\viewmodels\\userdetalleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\viewmodels\\productolistaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\viewmodels\\productolistaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\viewmodels\\productodetalleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\viewmodels\\productodetalleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\services\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\services\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\utils\\capitalizefirstletterconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\utils\\capitalizefirstletterconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\utils\\constans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\utils\\constans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\services\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\services\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\models\\name.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\models\\name.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\models\\geolocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\models\\geolocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\models\\materialicons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\models\\materialicons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|c:\\users\\cocar\\source\\repos\\appfakestore2\\appfakestore2\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB2836E-45FD-44D6-94CF-B0AF1189A6C6}|AppFakeStore2\\AppFakeStore2.csproj|solutionrelative:appfakestore2\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppFakeStore2\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppFakeStore2\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T15:31:45.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\App.xaml",
+              "RelativeDocumentMoniker": "AppFakeStore2\\App.xaml",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\App.xaml",
+              "RelativeToolTip": "AppFakeStore2\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-07T15:14:19.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\App.xaml.cs",
+              "RelativeDocumentMoniker": "AppFakeStore2\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\App.xaml.cs",
+              "RelativeToolTip": "AppFakeStore2\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T15:14:13.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppFakeStore2\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\AppShell.xaml",
+              "RelativeToolTip": "AppFakeStore2\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-07T15:13:29.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserListaPage.xaml",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Views\\UserListaPage.xaml",
+              "RelativeDocumentMoniker": "AppFakeStore2\\Views\\UserListaPage.xaml",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Views\\UserListaPage.xaml",
+              "RelativeToolTip": "AppFakeStore2\\Views\\UserListaPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-07T14:57:36.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpperCaseConverter.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Utils\\UpperCaseConverter.cs",
+              "RelativeDocumentMoniker": "AppFakeStore2\\Utils\\UpperCaseConverter.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Utils\\UpperCaseConverter.cs",
+              "RelativeToolTip": "AppFakeStore2\\Utils\\UpperCaseConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:47:45.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AcercaPage.xaml",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Views\\AcercaPage.xaml",
+              "RelativeDocumentMoniker": "AppFakeStore2\\Views\\AcercaPage.xaml",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Views\\AcercaPage.xaml",
+              "RelativeToolTip": "AppFakeStore2\\Views\\AcercaPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-07T15:07:23.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Resources\\Styles\\Colors.xaml",
+              "RelativeDocumentMoniker": "AppFakeStore2\\Resources\\Styles\\Colors.xaml",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Resources\\Styles\\Colors.xaml",
+              "RelativeToolTip": "AppFakeStore2\\Resources\\Styles\\Colors.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-07T15:26:11.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "AppFakeStore2\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\MauiProgram.cs",
+              "RelativeToolTip": "AppFakeStore2\\MauiProgram.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:26:49.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Platforms\\Windows\\App.xaml.cs",
+              "RelativeDocumentMoniker": "AppFakeStore2\\Platforms\\Windows\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Platforms\\Windows\\App.xaml.cs",
+              "RelativeToolTip": "AppFakeStore2\\Platforms\\Windows\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T15:18:08.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDetallePage.xaml",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Views\\UserDetallePage.xaml",
+              "RelativeDocumentMoniker": "AppFakeStore2\\Views\\UserDetallePage.xaml",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Views\\UserDetallePage.xaml",
+              "RelativeToolTip": "AppFakeStore2\\Views\\UserDetallePage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-07T14:59:58.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AcercaPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Views\\AcercaPage.xaml.cs",
+              "RelativeDocumentMoniker": "AppFakeStore2\\Views\\AcercaPage.xaml.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Views\\AcercaPage.xaml.cs",
+              "RelativeToolTip": "AppFakeStore2\\Views\\AcercaPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T15:11:15.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductoDetallePage.xaml",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Views\\ProductoDetallePage.xaml",
+              "RelativeDocumentMoniker": "AppFakeStore2\\Views\\ProductoDetallePage.xaml",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Views\\ProductoDetallePage.xaml",
+              "RelativeToolTip": "AppFakeStore2\\Views\\ProductoDetallePage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-07T15:05:17.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductoDetallePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Views\\ProductoDetallePage.xaml.cs",
+              "RelativeDocumentMoniker": "AppFakeStore2\\Views\\ProductoDetallePage.xaml.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Views\\ProductoDetallePage.xaml.cs",
+              "RelativeToolTip": "AppFakeStore2\\Views\\ProductoDetallePage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T15:06:20.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductoListaPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Views\\ProductoListaPage.xaml.cs",
+              "RelativeDocumentMoniker": "AppFakeStore2\\Views\\ProductoListaPage.xaml.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Views\\ProductoListaPage.xaml.cs",
+              "RelativeToolTip": "AppFakeStore2\\Views\\ProductoListaPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T15:04:22.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductoListaPage.xaml",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Views\\ProductoListaPage.xaml",
+              "RelativeDocumentMoniker": "AppFakeStore2\\Views\\ProductoListaPage.xaml",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Views\\ProductoListaPage.xaml",
+              "RelativeToolTip": "AppFakeStore2\\Views\\ProductoListaPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-07T15:03:28.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserDetallePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Views\\UserDetallePage.xaml.cs",
+              "RelativeDocumentMoniker": "AppFakeStore2\\Views\\UserDetallePage.xaml.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Views\\UserDetallePage.xaml.cs",
+              "RelativeToolTip": "AppFakeStore2\\Views\\UserDetallePage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T15:02:09.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "AppFakeStore2\\Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Views\\MainPage.xaml",
+              "RelativeToolTip": "AppFakeStore2\\Views\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-07T14:17:12.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Views\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "AppFakeStore2\\Views\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Views\\LoginPage.xaml.cs",
+              "RelativeToolTip": "AppFakeStore2\\Views\\LoginPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T14:16:11.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Views\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "AppFakeStore2\\Views\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Views\\LoginPage.xaml",
+              "RelativeToolTip": "AppFakeStore2\\Views\\LoginPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-07T14:12:38.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserListaPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Views\\UserListaPage.xaml.cs",
+              "RelativeDocumentMoniker": "AppFakeStore2\\Views\\UserListaPage.xaml.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Views\\UserListaPage.xaml.cs",
+              "RelativeToolTip": "AppFakeStore2\\Views\\UserListaPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T14:58:54.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Views\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "AppFakeStore2\\Views\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Views\\MainPage.xaml.cs",
+              "RelativeToolTip": "AppFakeStore2\\Views\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T14:19:12.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserListaViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\ViewModels\\UserListaViewModel.cs",
+              "RelativeDocumentMoniker": "AppFakeStore2\\ViewModels\\UserListaViewModel.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\ViewModels\\UserListaViewModel.cs",
+              "RelativeToolTip": "AppFakeStore2\\ViewModels\\UserListaViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T14:10:36.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserDetalleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\ViewModels\\UserDetalleViewModel.cs",
+              "RelativeDocumentMoniker": "AppFakeStore2\\ViewModels\\UserDetalleViewModel.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\ViewModels\\UserDetalleViewModel.cs",
+              "RelativeToolTip": "AppFakeStore2\\ViewModels\\UserDetalleViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T14:09:46.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductoListaViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\ViewModels\\ProductoListaViewModel.cs",
+              "RelativeDocumentMoniker": "AppFakeStore2\\ViewModels\\ProductoListaViewModel.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\ViewModels\\ProductoListaViewModel.cs",
+              "RelativeToolTip": "AppFakeStore2\\ViewModels\\ProductoListaViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T14:08:34.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductoDetalleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\ViewModels\\ProductoDetalleViewModel.cs",
+              "RelativeDocumentMoniker": "AppFakeStore2\\ViewModels\\ProductoDetalleViewModel.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\ViewModels\\ProductoDetalleViewModel.cs",
+              "RelativeToolTip": "AppFakeStore2\\ViewModels\\ProductoDetalleViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T14:07:16.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "AppFakeStore2\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "AppFakeStore2\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T14:05:16.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "AppFakeStore2\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "AppFakeStore2\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T14:03:20.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "AppFakeStore2\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "AppFakeStore2\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:54:25.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "AppFakeStore2\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Services\\IUserService.cs",
+              "RelativeToolTip": "AppFakeStore2\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:52:18.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "AppFakeStore2\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Services\\UserService.cs",
+              "RelativeToolTip": "AppFakeStore2\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:51:59.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Services\\IProductoService.cs",
+              "RelativeDocumentMoniker": "AppFakeStore2\\Services\\IProductoService.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Services\\IProductoService.cs",
+              "RelativeToolTip": "AppFakeStore2\\Services\\IProductoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:50:03.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Services\\ProductoService.cs",
+              "RelativeDocumentMoniker": "AppFakeStore2\\Services\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Services\\ProductoService.cs",
+              "RelativeToolTip": "AppFakeStore2\\Services\\ProductoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:49:45.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CapitalizeFirstLetterConverter.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Utils\\CapitalizeFirstLetterConverter.cs",
+              "RelativeDocumentMoniker": "AppFakeStore2\\Utils\\CapitalizeFirstLetterConverter.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Utils\\CapitalizeFirstLetterConverter.cs",
+              "RelativeToolTip": "AppFakeStore2\\Utils\\CapitalizeFirstLetterConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:48:40.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Constans.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Utils\\Constans.cs",
+              "RelativeDocumentMoniker": "AppFakeStore2\\Utils\\Constans.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Utils\\Constans.cs",
+              "RelativeToolTip": "AppFakeStore2\\Utils\\Constans.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:45:56.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ILoginService.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Services\\ILoginService.cs",
+              "RelativeDocumentMoniker": "AppFakeStore2\\Services\\ILoginService.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Services\\ILoginService.cs",
+              "RelativeToolTip": "AppFakeStore2\\Services\\ILoginService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:40:50.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Services\\LoginService.cs",
+              "RelativeDocumentMoniker": "AppFakeStore2\\Services\\LoginService.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Services\\LoginService.cs",
+              "RelativeToolTip": "AppFakeStore2\\Services\\LoginService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:40:20.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "AppFakeStore2\\Models\\Address.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Models\\Address.cs",
+              "RelativeToolTip": "AppFakeStore2\\Models\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:38:26.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Geolocation.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Models\\Geolocation.cs",
+              "RelativeDocumentMoniker": "AppFakeStore2\\Models\\Geolocation.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Models\\Geolocation.cs",
+              "RelativeToolTip": "AppFakeStore2\\Models\\Geolocation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:37:43.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "AppFakeStore2\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Models\\Login.cs",
+              "RelativeToolTip": "AppFakeStore2\\Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:37:05.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MaterialIcons.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Models\\MaterialIcons.cs",
+              "RelativeDocumentMoniker": "AppFakeStore2\\Models\\MaterialIcons.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Models\\MaterialIcons.cs",
+              "RelativeToolTip": "AppFakeStore2\\Models\\MaterialIcons.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:35:38.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Name.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Models\\Name.cs",
+              "RelativeDocumentMoniker": "AppFakeStore2\\Models\\Name.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Models\\Name.cs",
+              "RelativeToolTip": "AppFakeStore2\\Models\\Name.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:34:41.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "AppFakeStore2\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Models\\Producto.cs",
+              "RelativeToolTip": "AppFakeStore2\\Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:33:46.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Models\\Rating.cs",
+              "RelativeDocumentMoniker": "AppFakeStore2\\Models\\Rating.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Models\\Rating.cs",
+              "RelativeToolTip": "AppFakeStore2\\Models\\Rating.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:32:54.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AppFakeStore2\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\cocar\\source\\repos\\AppFakeStore2\\AppFakeStore2\\Models\\User.cs",
+              "RelativeToolTip": "AppFakeStore2\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T13:30:50.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
